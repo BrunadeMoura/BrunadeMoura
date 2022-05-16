@@ -31,4 +31,4 @@
     <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=Certificados&theme=radical&hide_border=true" />
 </div>
 
-![Snake animation](https://github.com/BrunadeMoura/BrunadeMoura/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrunadeMoura/BrunadeMoura/blob/output/github-contribution-grid-snake-git.svg)
