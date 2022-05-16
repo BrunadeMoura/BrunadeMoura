@@ -31,5 +31,7 @@
     <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=Certificados&theme=radical&hide_border=true" />
     
 </div>
+
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
