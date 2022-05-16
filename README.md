@@ -29,7 +29,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=nlw3&theme=radical&hide_border=true" />
     <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW-return&theme=radical&hide_border=true" />
     <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=Certificados&theme=radical&hide_border=true" />
+    
+      ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/BrunadeMoura/BrunadeMoura/blob/main/.github/workflows/snake-git.yml
-)
