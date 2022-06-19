@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/BrunadeMoura">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=BrunadeMoura&count_private=true&show_icons=true&theme=radical&locale=pt-br" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunadeMoura&layout=compact&theme=radical&locale=pt-br" />  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunadeMoura&layout=compact&theme=radical&locale=pt-br&hide=Jupyter Notebook" />  
 </div> 
 
 <div>
