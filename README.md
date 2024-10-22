@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunadeMoura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunadeMoura&layout=pie&exclude_repo=analise_de_dados&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
