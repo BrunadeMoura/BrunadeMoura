@@ -1,23 +1,57 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Bruna Moura
 
-<!--
-**BrunadeMoura/BrunadeMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora de Software  
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
+📊 Pós-graduação / MBA em **Gerenciamento de Projetos**  
+📍 Brasil - SP
 
-Here are some ideas to get you started:
+Atuo com desenvolvimento de software e tenho forte interesse em **organização de projetos, qualidade, documentação técnica e boas práticas de desenvolvimento**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu GitHub reúne projetos práticos, estudos e aplicações desenvolvidas ao longo da minha formação e experiência profissional.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunadeMoura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunadeMoura&layout=pie&exclude_repo=analise_de_dados&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## 🧠 Áreas de Interesse
 
+- Desenvolvimento de software
+- Java e aplicações backend
+- Desenvolvimento web com JavaScript
+- Organização e padronização de projetos
+- Qualidade de software e melhoria contínua
 
+---
+
+## 💻 Tecnologias
+
+### Linguagens
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📌 Pop-Up Feedback
+Aplicação web para coleta de feedback de usuários, focada em simplicidade e usabilidade.  
+🔗 https://github.com/BrunadeMoura/pop-up_feedback
+
+### 📌 NLW3 & NLW Together
+Projetos desenvolvidos durante eventos de capacitação, com foco em tecnologias web modernas.  
+🔗 https://github.com/BrunadeMoura/NLW3
+🔗 https://github.com/BrunadeMoura/NLW_together
+
+### 📌 Análise de Dados
+Repositório voltado a estudos e práticas de análise e exploração de dados.  
+🔗 https://github.com/BrunadeMoura/analise_de_dados
+
+> Outros repositórios incluem estudos, exercícios e projetos acadêmicos.
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/brunademoura/  
+📧 E-mail: brunninhademoura@gmail.com
 
