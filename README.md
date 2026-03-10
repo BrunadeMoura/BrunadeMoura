@@ -31,20 +31,12 @@ Meu GitHub reúne projetos práticos, estudos e aplicações desenvolvidas ao lo
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📌 Pop-Up Feedback
-Aplicação web para coleta de feedback de usuários, focada em simplicidade e usabilidade.  
-🔗 https://github.com/BrunadeMoura/pop-up_feedback
-
-### 📌 NLW3 & NLW Together
-Projetos desenvolvidos durante eventos de capacitação, com foco em tecnologias web modernas.  
-🔗 https://github.com/BrunadeMoura/NLW3
-🔗 https://github.com/BrunadeMoura/NLW_together
-
-### 📌 Análise de Dados
-Repositório voltado a estudos e práticas de análise e exploração de dados.  
-🔗 https://github.com/BrunadeMoura/analise_de_dados
+<h3>Projetos em Destaque</h3>
+  <a href="https://github.com/BrunadeMoura">
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=pop-up_feedback&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=analise_de_dados&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW3&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW_together&theme=radical&hide_border=true" />
 
 > Outros repositórios incluem estudos, exercícios e projetos acadêmicos.
 
