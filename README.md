@@ -13,21 +13,27 @@ Meu GitHub reúne projetos práticos, estudos e aplicações desenvolvidas ao lo
 
 ## 🧠 Áreas de Interesse
 
-- Desenvolvimento de software
-- Java e aplicações backend
-- Desenvolvimento web com JavaScript
-- Organização e padronização de projetos
-- Qualidade de software e melhoria contínua
-
----
-
-## 💻 Tecnologias
-
-### Linguagens
-- Java
-- JavaScript
-- HTML5
-- CSS3
+ <table>
+  <tr>
+    <td>
+      - Desenvolvimento de software;
+      </br>
+      - Java e aplicações backend;
+      </br>
+      - Desenvolvimento web com JavaScript;
+      </br>
+      - Organização e padronização de projetos;
+      </br>
+      - Qualidade de software e melhoria contínua.
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/BrunadeMoura">
+          <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunadeMoura&exclude_repo=analise_de_dados&layout=compact&theme=radical&locale=pt-br&langs_count=6"(https://github.com/anuraghazra/github-readme-stats)/>
+      </div>
+    </td>
+  </tr>
+</table> 
 
 ---
 
