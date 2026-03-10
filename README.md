@@ -33,10 +33,10 @@ Meu GitHub reúne projetos práticos, estudos e aplicações desenvolvidas ao lo
 
 <h3>Projetos em Destaque</h3>
   <a href="https://github.com/BrunadeMoura">
-    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=pop-up_feedback&theme=radical&hide_border=true" />
-    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=analise_de_dados&theme=radical&hide_border=true" />
-    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW3&theme=radical&hide_border=true" />
-    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW_together&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=pop-up_feedback&theme=radical&hide_border=true&description_lines_count=1" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=analise_de_dados&theme=radical&hide_border=true&description_lines_count=1" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW3&theme=radical&hide_border=true&description_lines_count=1" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW_together&theme=radical&hide_border=true&description_lines_count=1" />
 
 > Outros repositórios incluem estudos, exercícios e projetos acadêmicos.
 
